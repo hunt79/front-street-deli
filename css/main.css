@@ -1,1 +1,76 @@
-hey
+* {box-sizing:border-box;
+padding: 25px;
+
+}
+div.Front {text-align: center;
+				color: #4367cb;}
+
+div.Desc {text-align: center;
+		font-size: 24px;}
+
+div.menu-right {text-align: right;
+					float:right;
+					width: 50%; 
+					margin-bottom: 3px;
+
+}
+
+div.Header {left: 43%;
+			position: fixed;
+			}
+div.menu-right h1{color:#4367cb ;}
+div.menu-left h1 {color: #4367cb;}
+div.menu-left  {text-align: left;
+				float: left;
+				width: 50%
+
+}
+div.Vanilla {padding-left: 70px;
+			border-style: inset;
+			border-color: darkgray;
+			}
+
+
+div.Risky-Business	{
+			border-style: inset;
+			border-color: darkgray;
+			/*padding-right: 10px;*/
+			 padding-left:  600px;
+			
+			}
+div.Firm {
+			padding-right: 221px;
+			border-style: inset;
+			border-color: darkgray;
+		  padding-left:  700px;
+			
+			width: 50%;}
+
+div.Days {width: 50%;
+			border-style: inset;
+			border-color: darkgray;
+		  padding-left:650px;
+			padding-right: 325px;}
+
+div.Tropic{
+			padding-bottom: 50px;
+			padding-left:7px;
+			border-style: inset;
+			border-color: darkgray;
+			 }
+
+div.Mission {padding-left: 150px;
+			border-style: inset;
+			border-color: darkgray;
+			}
+ 
+
+body {background-color: black; }
+ div.FSD  {text-align: center;}
+ p {color: #da6958;}
+
+ div.menu-right p {font-size: 25px;
+ }
+ div.menu-left p {font-size: 25px;}
+
+ 	
